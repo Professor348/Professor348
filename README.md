@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Professor348, otherwise known as Dan
+- 👋 Hi, I’m @Professor348, otherwise known as Daniel
 - 👀 I’m interested in:
 -   Programming
 -   Rubix Cubes
