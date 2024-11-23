@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning:
 -   Computer Science
 - 💞️ I’m looking to collaborate on:
--   Nothing specific at the moment. Send me a DM on Discord(danthegamer3202)  if you think you have a project that I'd like to collaborate on. 
+-   Nothing specific at the moment. Send me a DM on Discord at Danthegamer3202 if you think you have a project that I'd like to collaborate on. 
 - ⚡ Fun fact:
 -   I am certified in JavaScript by CodinGame
 
