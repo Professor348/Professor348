@@ -10,9 +10,7 @@
 - 💞️ I’m looking to collaborate on:
   - Nothing specific at the moment. Send me a DM on Discord at Danthegamer3202 if you think you have a project that I'd like to collaborate on. 
 - ⚡ Fun fact:
-  -   I am certified in JavaScript by CodinGame, and have been to the FIRST World Championship!
-
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+  -   I am certified in JavaScript by CodinGame, and have been to the FIRST World Championship
 
 <!---
 Professor348/Professor348 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
