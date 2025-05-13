@@ -5,6 +5,7 @@
   -   Biking
   -   Minecraft
   -   Chess
+  -   Robotics (Mainly through a FIRST Tech Challenge team, [LOAD Robotics](loadrobotics.org))
 - 🌱 I’m currently learning:
   -   Computer Science through self-teaching
 - 💞️ I’m looking to collaborate on:
